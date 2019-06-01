@@ -1,4 +1,4 @@
-package test0531;
+package Basic;
 
 import java.util.Scanner;
 //import java.lang.*;
