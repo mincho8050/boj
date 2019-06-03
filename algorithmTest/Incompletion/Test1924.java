@@ -1,8 +1,8 @@
-package test0603;
+package Incompletion;
 import java.time.DayOfWeek;
 import java.util.Calendar;
 import java.util.Scanner;
-public class test1924 {
+public class Test1924 {
 
 	public static void main(String[] args) {
 		
