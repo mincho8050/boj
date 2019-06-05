@@ -5,6 +5,7 @@ import java.util.GregorianCalendar;
 import java.util.Scanner;
 public class test1924 {
 
+	
 	public static void main(String[] args) {
 		
 		/*
