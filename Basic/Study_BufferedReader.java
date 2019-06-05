@@ -1,15 +1,12 @@
-package Basic;
+package test0531;
 
 import java.io.*;
 import java.io.*;
 
 public class Study_BufferedReader {
 
-	public Study_BufferedReader(InputStreamReader inputStreamReader) {
-		// TODO Auto-generated constructor stub
-	}
-
-	public static void main(String[] args) {
+	
+	public static void main(String[] args) throws IOException {
 		/*
 		 * BufferedReader
 		 * > 입력방식
@@ -22,10 +19,16 @@ public class Study_BufferedReader {
 		 */
 		
 	
+		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		
-	Study_BufferedReader bf= new Study_BufferedReader(new InputStreamReader(System.in));
+		System.out.println("나이");
+		String name=br.readLine();
 		
 		
+		/*
+		 * 빠른 출력을 위해 StringBuilder 사용,
+		 * 
+		 */
 
 	}//main
 
